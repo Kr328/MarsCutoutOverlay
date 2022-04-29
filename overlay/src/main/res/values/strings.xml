@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="config_mainBuiltInDisplayCutout">
+        M 0, 0
+        h 230
+        v 195
+        h -230
+        Z
+        @left
+    </string>
+    <string name="config_mainBuiltInDisplayCutoutRectApproximation">
+        M 0, 0
+        h 230
+        v 195
+        h -230
+        Z
+        @left
+    </string>
+</resources>

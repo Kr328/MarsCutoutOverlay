@@ -1,0 +1,6 @@
+id=com.github.kr328.mars.cutout
+name=Cutout Properties for Xiaomi 11
+version=${versionName}
+versionCode=${versionCode}
+author=Kr328
+description=Cutout Properties for Xiaomi 11
